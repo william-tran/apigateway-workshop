@@ -3,6 +3,7 @@
 0. Install Java 8 and Maven
 1. Clone this repo
 2. mvn spring-boot:run
+3. cd apigateway-workshop
 3. http://localhost:8080/api/v1/agencies/
 
 ## Challenge
