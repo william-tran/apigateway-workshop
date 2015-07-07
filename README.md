@@ -1,5 +1,10 @@
 # API Gateway Workshop
 
+0. Install Java 8 and Maven
+1. Clone this repo
+2. mvn spring-boot:run
+3. http://localhost:8080/api/v1/agencies/
+
 ## Challenge
 
 Sort the TTC Streetcar routes from most frequent to least frequent. Output the route title and frequency in vehicles per hour, ordered by most frequent. Output in JSON:
