@@ -1,6 +1,7 @@
 # API Gateway Workshop
 
 0. Install Java 8 and Maven
+1. Use Chrome and install JSONView https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
 1. Clone this repo
 2. cd apigateway-workshop
 2. mvn spring-boot:run
