@@ -1,8 +1,8 @@
-localResourcesDir: /home/tomcat/workspace/CFMS API Gateway/archetypes/apigateway-archetype-oauth2/src/main/resources
+localResourcesDir: ${project.basedir}/src/main/resources
 loggerNamePrefix: oauth2-sso
 baseApiPath: api
 applicationId: oauth2-sso
-server.port: 8888
+server.port: 8081
 security.basic.enabled: false
 enableSourceModificationApi: true
 

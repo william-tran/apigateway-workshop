@@ -1,2 +1,2 @@
-# Securing API Gateway with OAuth2
-How to secure API Gateway with Pivotal SSO and relay the token to backend services calls.
+# Securing API Gateway with OAuth2 and Pivotal SSO
+See the [oauth2-sso readme](../oauth2-sso)
